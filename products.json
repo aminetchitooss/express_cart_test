@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Jupe",
+    "price": 25,
+    "company": "Zara",
+    "rating": 4,
+    "available": true
+  },
+  {
+    "name": "wooden desk",
+    "price": 40,
+    "company": "ikea",
+    "available": true
+  },
+  {
+    "name": "wooden table",
+    "price": 23,
+    "company": "Castorama",
+    "available": true
+  },
+  {
+    "name": "a first wooden table",
+    "price": 23,
+    "company": "Castorama",
+    "available": false
+  },
+  {
+    "name": "bed",
+    "price": 200,
+    "company": "Conforma",
+    "rating": 5,
+    "available": false
+  },
+  {
+    "name": "table",
+    "price": 305,
+    "company": "Conforma",
+    "rating": 4.9,
+    "available": true
+  },
+  {
+    "name": "Chemise",
+    "price": 125,
+    "company": "Zara",
+    "rating": 4.8,
+    "available": false
+  },
+  {
+    "name": "bar stool",
+    "price": 40,
+    "company": "Conforma",
+    "rating": 4.6,
+    "available": false
+  },
+  {
+    "name": "dining table",
+    "price": 42,
+    "company": "ikea",
+    "rating": 4.55,
+    "available": false
+  },
+  {
+    "name": "emperor bed",
+    "price": 23,
+    "company": "ikea",
+    "available": true
+  },
+  {
+    "name": "entertainment center",
+    "price": 55,
+    "company": "Castorama",
+    "available": true
+  },
+  {
+    "name": "high-back bench",
+    "price": 35,
+    "company": "ikea",
+    "available": true
+  },
+  {
+    "name": "leather sofa",
+    "price": 95,
+    "company": "Castorama",
+    "available": true
+  },
+  {
+    "name": "modern bookshelf",
+    "price": 31,
+    "company": "Castorama",
+    "available": true
+  },
+  {
+    "name": "modern poster",
+    "price": 30,
+    "company": "Conforma",
+    "available": true
+  },
+  {
+    "name": "shelf",
+    "price": 30,
+    "company": "ikea",
+    "available": true
+  },
+  {
+    "name": "simple chair",
+    "price": 105,
+    "company": "Conforma",
+    "available": true
+  },
+  {
+    "name": "sofa set",
+    "price": 125,
+    "company": "Zara",
+    "available": true
+  },
+  {
+    "name": "suede Chemise",
+    "price": 15,
+    "company": "Castorama",
+    "available": true
+  },
+  {
+    "name": "utopia sofa",
+    "price": 75,
+    "company": "Conforma",
+    "available": true
+  },
+  {
+    "name": "vase table",
+    "price": 120,
+    "company": "Zara",
+    "available": true
+  },
+  {
+    "name": "wooden bed",
+    "price": 25,
+    "company": "ikea",
+    "available": true
+  },
+  {
+    "name": "wooden desk",
+    "price": 15,
+    "company": "ikea",
+    "available": true
+  }
+]
